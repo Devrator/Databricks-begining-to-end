@@ -1,4 +1,4 @@
-# 🔥 Databricks Projects (Spark + MLflow)
+# 🔥 Databricks Projects (Spark)
 
 This section contains real-world, end-to-end **Data Engineering and Machine Learning projects** built using **Apache Spark** in **Databricks** with **MLflow** integration.
 
